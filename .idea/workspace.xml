@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3590ac2e-0bf6-4021-aca5-eaaa4e0f5ed5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/CreditCheckHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/FinalApprovalHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/IncomeVerificationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/LoanApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/LoanHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/AreaSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/ShapeSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/ShapeSorterContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/DisplayBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Entrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/ParkingTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_4.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2c4spDqCTVvXXIdHBXXdK2qo8bv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Structural.Decorator.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural.Composite.Client" />
+      <module name="DesignPatternRefresher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Structural.Composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creational.Singleton" />
+      <module name="DesignPatternRefresher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creational.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Structural.Decorator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural.Decorator.Client" />
+      <module name="DesignPatternRefresher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Structural.Decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Structural.Decorator.Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Singleton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3590ac2e-0bf6-4021-aca5-eaaa4e0f5ed5" name="Changes" comment="" />
+      <created>1707382365877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707382365877</updated>
+    </task>
+    <servers />
+  </component>
+</project>
