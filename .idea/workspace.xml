@@ -29,11 +29,16 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/ShoppingCart.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Client.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteSubject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/AreaSorter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/Client.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/ShapeSorter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/ShapeSorterContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/FactoryMethod.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Creational/Readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Creational/Singleton.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Creational/img.png" afterDir="false" />
@@ -67,7 +72,13 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_7.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_8.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Composite/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Decorator/PlainPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Facade/VideoImporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Flyweight/CharacterFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Proxy/FileDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/adapter/MediaPlayer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_1.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_2.png" afterDir="false" />
