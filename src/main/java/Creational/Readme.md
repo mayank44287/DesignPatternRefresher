@@ -2,7 +2,6 @@
 
 In this lesson, we will discuss creational design patterns. Creational design patterns deal with object creation mechanisms. As the name implies, these patterns provide optimized object creation techniques. They help cater to the design and complexity problems that might occur when using the basic approach. They also help control the creation of objects.
 
-The chart below shows the patterns that fall under this category:
 ![img.png](img.png)
 ## Creational Design Patterns
 

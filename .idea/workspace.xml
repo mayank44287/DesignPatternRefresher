@@ -5,85 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3590ac2e-0bf6-4021-aca5-eaaa4e0f5ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/CreditCheckHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/FinalApprovalHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/IncomeVerificationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/LoanApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/CoR/LoanHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/ArrayListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/AreaSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/ShapeSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/ShapeSorterContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/FactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/AccountStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/DisplayBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Entrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/ParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/ParkingTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/img_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Composite/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Decorator/PlainPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Facade/VideoImporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Flyweight/CharacterFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Proxy/FileDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/adapter/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Structural/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Creational/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ParkingLot/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ParkingLot/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
