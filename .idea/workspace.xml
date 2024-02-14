@@ -5,26 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3590ac2e-0bf6-4021-aca5-eaaa4e0f5ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/DIrection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/DoorButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/DoorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/ElevatorButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/ElevatorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/ElevatorPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/ElevatorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/ElevatorSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/HallButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElevatorSystem/HallPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
