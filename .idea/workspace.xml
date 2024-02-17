@@ -5,47 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3590ac2e-0bf6-4021-aca5-eaaa4e0f5ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/AccountStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/BookFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/BookItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/BookLending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/BookReservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/BookStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Catalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/ClassDiagram.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Fine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Librarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/PostalNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Rack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/ReservationStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LibraryManagementSystem/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/DispenseState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/MoneyInsertedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/NoMoneyInsertedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Rack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -124,6 +103,48 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
