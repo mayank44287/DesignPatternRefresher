@@ -5,26 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3590ac2e-0bf6-4021-aca5-eaaa4e0f5ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/DispenseState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/MoneyInsertedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/NoMoneyInsertedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Rack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Locker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
