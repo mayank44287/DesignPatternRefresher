@@ -5,28 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3590ac2e-0bf6-4021-aca5-eaaa4e0f5ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Locker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/LockerState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonLockerService/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/CarRentalBranch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/CarRentalSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/ChildSeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/DriverService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/MotorcycleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Navigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/ParkingStall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Receptionist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/ReservationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/RoadsideAssistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/SkiRack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/SmsNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/TruckType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Van.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/VanType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/VehicleCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/VehicleLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/VehicleLogType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/VehicleReservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/VehicleStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/Wifi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentalSystem/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +78,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,13 +107,26 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Structural.Decorator.Client">
+  <component name="RunManager" selected="Application.MyThread">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Structural.Composite.Client" />
       <module name="DesignPatternRefresher" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Structural.Composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarRentalSystem.MyThread" />
+      <module name="DesignPatternRefresher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CarRentalSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,6 +204,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyThread" />
         <item itemvalue="Application.Structural.Decorator.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Singleton" />
