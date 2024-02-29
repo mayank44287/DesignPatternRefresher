@@ -5,29 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3590ac2e-0bf6-4021-aca5-eaaa4e0f5ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/ATMCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/ATMState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/ATMStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/CardReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATMSystem/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/AuthenticatedUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/ElectronicBankTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/OrderLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/PhoneNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/ProductReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/Shipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/ShipmentLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/ShipmentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AmazonOnlineShopping/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +69,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
